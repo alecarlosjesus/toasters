@@ -8,6 +8,7 @@ body{
   font-size: 12px;
   font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
   color: #444;
+  background-color: #69768a;
 }
 /*Para a classe container determine os seguintes estilos:
 |Largura máxima de 1128px.
@@ -100,7 +101,7 @@ Para os hyperlinks dos itens da lista determine os seguintes estilos.
 */
 .banner{
   height: 450px;
-  margin-bottom: 55px;
+  margin-bottom: 35px;
   position: relative;
 }
 /*
@@ -116,7 +117,7 @@ Para os hyperlinks dos itens da lista determine os seguintes estilos.
   padding: 30px 48px;
   height: 200px;
   position: absolute;
-  top:180px;
+  top:55px;
   background-color: rgba(0, 0, 0, 0.6);
 }
 /*
@@ -153,7 +154,7 @@ Para os hyperlinks dos itens da lista determine os seguintes estilos.
 */
 .rodape{
   width: 100%;
-  margin-top: 30px;
+  margin-top: 0px;
   margin-bottom: 30px;
   float: left;
   font-size: 30px;
