@@ -9,6 +9,7 @@ body{
   font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
   color: #444;
   background-color: #69768a;
+  margin: auto;
 }
 /*Para a classe container determine os seguintes estilos:
 |Largura máxima de 1128px.
